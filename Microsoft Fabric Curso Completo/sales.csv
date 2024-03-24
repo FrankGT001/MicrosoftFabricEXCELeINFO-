@@ -1,0 +1,220 @@
+pais,division,Empresa,Producto, Precio ,Cantidad,Fecha, Ventas 
+Alemania,Europa,Alfreds Futterkiste,Té Dharamsala, 18.00 ,1907,24/03/2024, 5,504.17 
+Alemania,Europa,Alfreds Futterkiste,Té Dharamsala, 18.00 ,1907,24/03/2024, 9,814.14 
+Alemania,Europa,Alfreds Futterkiste,Té Dharamsala, 18.00 ,1907,24/03/2024, 7,497.33 
+Alemania,Europa,Königlich Essen,Licor verde Chartreuse, 18.00 ,1414,24/03/2024, 5,230.26 
+Alemania,Europa,Königlich Essen,Licor verde Chartreuse, 18.00 ,1414,24/03/2024, 9,673.76 
+Alemania,Europa,Königlich Essen,Licor verde Chartreuse, 18.00 ,1414,24/03/2024, 5,746.94 
+Alemania,Europa,UICK-Stop,Sandwich de vegetales, 43.90 ,2914,24/03/2024, 6,063.26 
+Alemania,Europa,UICK-Stop,Sandwich de vegetales, 43.90 ,2914,24/03/2024, 9,389.17 
+Alemania,Europa,UICK-Stop,Sandwich de vegetales, 43.90 ,2914,24/03/2024, 8,938.26 
+Alemania,Europa,Blauer See Delikatessen,Mermelada de grosellas de la abuela, 25.00 ,3258,24/03/2024, 6,254.46 
+Alemania,Europa,Blauer See Delikatessen,Mermelada de grosellas de la abuela, 25.00 ,3258,24/03/2024, 9,812.01 
+Alemania,Europa,Blauer See Delikatessen,Mermelada de grosellas de la abuela, 25.00 ,3258,24/03/2024, 6,561.17 
+Alemania,Europa,Lehmanns Marktstand,Azúcar negra Malacca, 19.45 ,2749,24/03/2024, 5,971.56 
+Alemania,Europa,Lehmanns Marktstand,Azúcar negra Malacca, 19.45 ,2749,24/03/2024, 9,613.03 
+Alemania,Europa,Lehmanns Marktstand,Azúcar negra Malacca, 19.45 ,2749,25/03/2024, 7,657.25 
+Alemania,Europa,Drachenblut Delikatessen,Cordero Alice Springs, 39.00 ,8375,26/03/2024, 9,096.96 
+Alemania,Europa,Drachenblut Delikatessen,Cordero Alice Springs, 39.00 ,8375,27/03/2024, 9,803.00 
+Alemania,Europa,Drachenblut Delikatessen,Cordero Alice Springs, 39.00 ,8375,28/03/2024, 7,521.90 
+Alemania,Europa,Morgenstern Gesundkost,Cereales para Filo, 7.00 ,3158,29/03/2024, 6,198.77 
+Alemania,Europa,Morgenstern Gesundkost,Cereales para Filo, 7.00 ,3158,30/03/2024, 9,613.03 
+Alemania,Europa,Morgenstern Gesundkost,Cereales para Filo, 7.00 ,3158,31/03/2024, 5,888.09 
+Alemania,Europa,Frankenversand,Crema de chocolate y nueces NuNuCa, 14.00 ,4856,1/04/2024, 7,142.09 
+Alemania,Europa,Frankenversand,Crema de chocolate y nueces NuNuCa, 14.00 ,4856,2/04/2024, 9,773.40 
+Alemania,Europa,Frankenversand,Crema de chocolate y nueces NuNuCa, 14.00 ,4856,3/04/2024, 9,223.30 
+Alemania,Europa,Ottilies Käseladen,Gnocchi de la abuela Alicia, 38.00 ,6867,4/04/2024, 8,259.68 
+Alemania,Europa,Ottilies Käseladen,Gnocchi de la abuela Alicia, 38.00 ,6867,5/04/2024, 9,512.16 
+Alemania,Europa,Ottilies Käseladen,Gnocchi de la abuela Alicia, 38.00 ,6867,6/04/2024, 6,592.91 
+Austria,Europa,Ernst Handel,Mermelada de Sir Rodney's, 81.00 ,6938,7/04/2024, 8,298.75 
+Austria,Europa,Ernst Handel,Mermelada de Sir Rodney's, 81.00 ,6938,8/04/2024, 9,184.55 
+Austria,Europa,Ernst Handel,Mermelada de Sir Rodney's, 81.00 ,6938,9/04/2024, 5,796.08 
+Austria,Europa,Piccolo und mehr,Raclet de ueso Courdavault, 55.00 ,9662,10/04/2024, 9,812.01 
+Austria,Europa,Piccolo und mehr,Raclet de ueso Courdavault, 55.00 ,9662,11/04/2024, 9,096.96 
+Austria,Europa,Piccolo und mehr,Raclet de ueso Courdavault, 55.00 ,9662,12/04/2024, 8,887.91 
+Bélgica,Europa,Maison Dewey,Chocolate blanco, 16.25 ,8901,13/04/2024, 9,389.17 
+Bélgica,Europa,Maison Dewey,Chocolate blanco, 16.25 ,8901,14/04/2024, 9,020.97 
+Bélgica,Europa,Maison Dewey,Chocolate blanco, 16.25 ,8901,15/04/2024, 9,410.08 
+Bélgica,Europa,Suprêmes délices,Licor Cloudberry, 18.00 ,6422,16/04/2024, 8,012.18 
+Bélgica,Europa,Suprêmes délices,Licor Cloudberry, 18.00 ,6422,17/04/2024, 8,921.48 
+Bélgica,Europa,Suprêmes délices,Licor Cloudberry, 18.00 ,6422,18/04/2024, 5,342.88 
+Dinamarca,Europa,Simons bistro,Caviar rojo, 15.00 ,3320,19/04/2024, 5,833.31 
+Dinamarca,Europa,Simons bistro,Caviar rojo, 15.00 ,3320,20/04/2024, 8,164.46 
+Dinamarca,Europa,Simons bistro,Caviar rojo, 15.00 ,3320,21/04/2024, 6,538.90 
+España,Europa,FISSA Fabrica Inter. Salchichas S.A.,Pan de centeno crujiente estilo Gustaf's, 21.00 ,1542,22/04/2024, 6,289.10 
+España,Europa,FISSA Fabrica Inter. Salchichas S.A.,Pan de centeno crujiente estilo Gustaf's, 21.00 ,1542,23/04/2024, 8,012.18 
+España,Europa,FISSA Fabrica Inter. Salchichas S.A.,Pan de centeno crujiente estilo Gustaf's, 21.00 ,1542,24/04/2024, 5,509.35 
+España,Europa,Galería del gastrónomo,Salchicha Thüringer, 123.79 ,2503,25/04/2024, 5,439.31 
+España,Europa,Galería del gastrónomo,Salchicha Thüringer, 123.79 ,2503,26/04/2024, 7,975.25 
+España,Europa,Galería del gastrónomo,Salchicha Thüringer, 123.79 ,2503,27/04/2024, 7,495.96 
+España,Europa,Godos Cocina Típica,Arenue blanco del noroeste, 25.89 ,5068,28/04/2024, 8,281.20 
+España,Europa,Godos Cocina Típica,Arenue blanco del noroeste, 25.89 ,5068,29/04/2024, 7,960.75 
+España,Europa,Godos Cocina Típica,Arenue blanco del noroeste, 25.89 ,5068,30/04/2024, 9,912.41 
+España,Europa,Bólido Comidas preparadas,Salsa de arándanos Northwoods, 40.00 ,6906,1/05/2024, 9,331.95 
+España,Europa,Bólido Comidas preparadas,Salsa de arándanos Northwoods, 40.00 ,6906,2/05/2024, 8,043.31 
+España,Europa,Bólido Comidas preparadas,Salsa de arándanos Northwoods, 40.00 ,6906,3/05/2024, 5,291.45 
+España,Europa,Romero y tomillo,ueso Gudbrandsdals, 36.00 ,6355,4/05/2024, 5,301.22 
+España,Europa,Romero y tomillo,ueso Gudbrandsdals, 36.00 ,6355,5/05/2024, 7,752.62 
+España,Europa,Romero y tomillo,ueso Gudbrandsdals, 36.00 ,6355,6/05/2024, 6,145.97 
+Francia,Europa,Du monde entier,Langostinos tigre Carnarvon, 62.50 ,4814,7/05/2024, 5,242.77 
+Francia,Europa,Du monde entier,Langostinos tigre Carnarvon, 62.50 ,4814,8/05/2024, 6,973.17 
+Francia,Europa,Du monde entier,Langostinos tigre Carnarvon, 62.50 ,4814,9/05/2024, 6,928.62 
+Francia,Europa,La maison d'Asie,Crema de almejas estilo Nueva Inglaterra, 9.65 ,4155,10/05/2024, 5,817.29 
+Francia,Europa,La maison d'Asie,Crema de almejas estilo Nueva Inglaterra, 9.65 ,4155,11/05/2024, 6,519.82 
+Francia,Europa,La maison d'Asie,Crema de almejas estilo Nueva Inglaterra, 9.65 ,4155,12/05/2024, 9,461.04 
+Francia,Europa,Folies gourmandes,Pan fino, 9.00 ,9303,13/05/2024, 8,921.48 
+Francia,Europa,Folies gourmandes,Pan fino, 9.00 ,9303,14/05/2024, 6,819.82 
+Francia,Europa,Folies gourmandes,Pan fino, 9.00 ,9303,15/05/2024, 7,043.52 
+Francia,Europa,Paris spécialités,Raviolis Angelo, 19.50 ,5652,16/05/2024, 6,519.82 
+Francia,Europa,Paris spécialités,Raviolis Angelo, 19.50 ,5652,17/05/2024, 6,413.31 
+Francia,Europa,Paris spécialités,Raviolis Angelo, 19.50 ,5652,18/05/2024, 7,182.68 
+Francia,Europa,Blondel père et fils,Peras secas orgánicas del tío Bob, 30.00 ,1491,19/05/2024, 7,300.64 
+Francia,Europa,Blondel père et fils,Peras secas orgánicas del tío Bob, 30.00 ,1491,20/05/2024, 7,096.32 
+Francia,Europa,Blondel père et fils,Peras secas orgánicas del tío Bob, 30.00 ,1491,21/05/2024, 9,277.32 
+Francia,Europa,France restauration,Ositos de goma Gumbär, 31.23 ,9665,22/05/2024, 8,875.70 
+Francia,Europa,France restauration,Ositos de goma Gumbär, 31.23 ,9665,23/05/2024, 6,752.98 
+Francia,Europa,France restauration,Ositos de goma Gumbär, 31.23 ,9665,24/05/2024, 6,924.65 
+Francia,Europa,Spécialités du monde,ueso de soja Longlife, 10.00 ,1449,25/05/2024, 5,272.53 
+Francia,Europa,Spécialités du monde,ueso de soja Longlife, 10.00 ,1449,26/05/2024, 6,289.10 
+Francia,Europa,Spécialités du monde,ueso de soja Longlife, 10.00 ,1449,27/05/2024, 6,705.98 
+Francia,Europa,Bon app',Buey Mishi Kobe, 97.00 ,2697,28/05/2024, 6,973.17 
+Francia,Europa,Bon app',Buey Mishi Kobe, 97.00 ,2697,29/05/2024, 7,069.92 
+Francia,Europa,Bon app',Buey Mishi Kobe, 97.00 ,2697,30/05/2024, 8,948.64 
+Francia,Europa,La corne d'abondance,Carne de cangrejo de Boston, 18.40 ,3544,31/05/2024, 9,184.55 
+Francia,Europa,La corne d'abondance,Carne de cangrejo de Boston, 18.40 ,3544,1/06/2024, 6,550.34 
+Francia,Europa,La corne d'abondance,Carne de cangrejo de Boston, 18.40 ,3544,2/06/2024, 6,933.50 
+Irlanda,Europa,Hungry Owl All-Night Grocers,Salmón ahumado Gravad, 26.00 ,6828,3/06/2024, 5,942.87 
+Irlanda,Europa,Hungry Owl All-Night Grocers,Salmón ahumado Gravad, 26.00 ,6828,4/06/2024, 6,254.46 
+Irlanda,Europa,Hungry Owl All-Night Grocers,Salmón ahumado Gravad, 26.00 ,6828,5/06/2024, 6,767.17 
+Italia,Europa,Franchi S.p.A.,Chocolate Schoggi, 43.90 ,3051,6/06/2024, 7,118.90 
+Italia,Europa,Franchi S.p.A.,Chocolate Schoggi, 43.90 ,3051,7/06/2024, 6,198.77 
+Italia,Europa,Franchi S.p.A.,Chocolate Schoggi, 43.90 ,3051,8/06/2024, 8,100.38 
+Italia,Europa,Magazzini Alimentari Riuniti,Regaliz, 20.00 ,6478,9/06/2024, 9,613.03 
+Italia,Europa,Magazzini Alimentari Riuniti,Regaliz, 20.00 ,6478,10/06/2024, 6,151.46 
+Italia,Europa,Magazzini Alimentari Riuniti,Regaliz, 20.00 ,6478,11/06/2024, 9,821.31 
+Italia,Europa,Reggiani Caseifici,Especias picantes de Luisiana, 17.00 ,7163,12/06/2024, 9,814.14 
+Italia,Europa,Reggiani Caseifici,Especias picantes de Luisiana, 17.00 ,7163,13/06/2024, 6,146.58 
+Italia,Europa,Reggiani Caseifici,Especias picantes de Luisiana, 17.00 ,7163,14/06/2024, 9,184.55 
+Noruega,Europa,Santé Gourmet,Cerveza Outback, 15.00 ,8238,15/06/2024, 7,145.91 
+Noruega,Europa,Santé Gourmet,Cerveza Outback, 15.00 ,8238,16/06/2024, 6,008.79 
+Noruega,Europa,Santé Gourmet,Cerveza Outback, 15.00 ,8238,17/06/2024, 8,971.68 
+Portugal,Europa,Furia Bacalhau e Frutos do Mar,Col fermentada Rössle, 45.60 ,2381,18/06/2024, 8,176.98 
+Portugal,Europa,Furia Bacalhau e Frutos do Mar,Col fermentada Rössle, 45.60 ,2381,19/06/2024, 5,971.56 
+Portugal,Europa,Furia Bacalhau e Frutos do Mar,Col fermentada Rössle, 45.60 ,2381,20/06/2024, 7,387.16 
+Portugal,Europa,Princesa Isabel Vinhos,Camembert Pierrot, 34.00 ,2065,21/06/2024, 8,238.01 
+Portugal,Europa,Princesa Isabel Vinhos,Camembert Pierrot, 34.00 ,2065,22/06/2024, 5,942.87 
+Portugal,Europa,Princesa Isabel Vinhos,Camembert Pierrot, 34.00 ,2065,23/06/2024, 7,561.27 
+Reino Unido,Europa,Consolidated Holdings,Postre de merengue Pavlova, 17.45 ,2817,24/06/2024, 8,423.87 
+Reino Unido,Europa,Consolidated Holdings,Postre de merengue Pavlova, 17.45 ,2817,25/06/2024, 5,817.29 
+Reino Unido,Europa,Consolidated Holdings,Postre de merengue Pavlova, 17.45 ,2817,26/06/2024, 8,904.08 
+Reino Unido,Europa,Seven Seas Imports,ueso Mozzarella Giovanni, 34.80 ,7477,27/06/2024, 6,146.58 
+Reino Unido,Europa,Seven Seas Imports,ueso Mozzarella Giovanni, 34.80 ,7477,28/06/2024, 5,504.17 
+Reino Unido,Europa,Seven Seas Imports,ueso Mozzarella Giovanni, 34.80 ,7477,29/06/2024, 7,316.20 
+Reino Unido,Europa,Eastern Connection,Pastas de té de chocolate, 9.20 ,5801,30/06/2024, 7,752.62 
+Reino Unido,Europa,Eastern Connection,Pastas de té de chocolate, 9.20 ,5801,1/07/2024, 5,767.08 
+Reino Unido,Europa,Eastern Connection,Pastas de té de chocolate, 9.20 ,5801,2/07/2024, 8,633.23 
+Reino Unido,Europa,Around the Horn,Especias Cajun del chef Anton, 22.00 ,5543,3/07/2024, 6,139.41 
+Reino Unido,Europa,Around the Horn,Especias Cajun del chef Anton, 22.00 ,5543,4/07/2024, 5,835.14 
+Reino Unido,Europa,Around the Horn,Especias Cajun del chef Anton, 22.00 ,5543,5/07/2024, 9,261.15 
+Reino Unido,Europa,Island Trading,Vino Côte de Blaye, 263.50 ,3056,6/07/2024, 9,613.03 
+Reino Unido,Europa,Island Trading,Vino Côte de Blaye, 263.50 ,3056,7/07/2024, 5,602.89 
+Reino Unido,Europa,Island Trading,Vino Côte de Blaye, 263.50 ,3056,8/07/2024, 8,210.24 
+Reino Unido,Europa,B's Beverages,ueso Cabrales, 21.00 ,4773,9/07/2024, 8,043.31 
+Reino Unido,Europa,B's Beverages,ueso Cabrales, 21.00 ,4773,10/07/2024, 5,833.31 
+Reino Unido,Europa,B's Beverages,ueso Cabrales, 21.00 ,4773,11/07/2024, 9,543.75 
+Reino Unido,Europa,North/South,Empanada de carne, 32.80 ,4508,12/07/2024, 8,220.62 
+Reino Unido,Europa,North/South,Empanada de carne, 32.80 ,4508,13/07/2024, 5,591.60 
+Reino Unido,Europa,North/South,Empanada de carne, 32.80 ,4508,14/07/2024, 9,101.08 
+Suecia,Europa,Berglunds snabbköp,Mezcla Gumbo del chef Anton, 21.35 ,2186,15/07/2024, 9,673.76 
+Suecia,Europa,Berglunds snabbköp,Mezcla Gumbo del chef Anton, 21.35 ,2186,16/07/2024, 5,476.85 
+Suecia,Europa,Berglunds snabbköp,Mezcla Gumbo del chef Anton, 21.35 ,2186,17/07/2024, 8,248.39 
+Suecia,Europa,Folk och fä HB,Refresco Guaraná Fantástica, 4.50 ,6939,18/07/2024, 9,020.97 
+Suecia,Europa,Folk och fä HB,Refresco Guaraná Fantástica, 4.50 ,6939,19/07/2024, 5,439.31 
+Suecia,Europa,Folk och fä HB,Refresco Guaraná Fantástica, 4.50 ,6939,20/07/2024, 6,500.14 
+Suiza,Europa,Richter Supermarkt,Barras de pan de Escocia, 12.50 ,1734,21/07/2024, 5,767.08 
+Suiza,Europa,Richter Supermarkt,Barras de pan de Escocia, 12.50 ,1734,22/07/2024, 5,272.53 
+Suiza,Europa,Richter Supermarkt,Barras de pan de Escocia, 12.50 ,1734,23/07/2024, 5,977.36 
+Suiza,Europa,Chop-suey Chinese,Cuajada de judías, 23.25 ,4342,24/07/2024, 8,164.46 
+Suiza,Europa,Chop-suey Chinese,Cuajada de judías, 23.25 ,4342,25/07/2024, 5,301.22 
+Suiza,Europa,Chop-suey Chinese,Cuajada de judías, 23.25 ,4342,26/07/2024, 7,756.89 
+Canadá,Norte America,Laughing Bacchus Wine Cellars,Tallarines de Singapur, 14.00 ,2500,27/07/2024, 6,053.50 
+Canadá,Norte America,Laughing Bacchus Wine Cellars,Tallarines de Singapur, 14.00 ,2500,28/07/2024, 8,220.62 
+Canadá,Norte America,Laughing Bacchus Wine Cellars,Tallarines de Singapur, 14.00 ,2500,29/07/2024, 9,001.59 
+Canadá,Norte America,Mère Paillarde,Manzanas secas Manjimup, 53.00 ,8798,30/07/2024, 7,638.02 
+Canadá,Norte America,Mère Paillarde,Manzanas secas Manjimup, 53.00 ,8798,31/07/2024, 8,176.98 
+Canadá,Norte America,Mère Paillarde,Manzanas secas Manjimup, 53.00 ,8798,1/08/2024, 7,382.12 
+Canadá,Norte America,Bottom-Dollar Markets,Pez espada, 31.00 ,5748,2/08/2024, 9,295.63 
+Canadá,Norte America,Bottom-Dollar Markets,Pez espada, 31.00 ,5748,3/08/2024, 8,238.01 
+Canadá,Norte America,Bottom-Dollar Markets,Pez espada, 31.00 ,5748,4/08/2024, 5,665.91 
+Estados Unidos,Norte America,Great Lakes Food Market,ueso Mascarpone Fabioli, 32.00 ,3073,5/08/2024, 5,835.14 
+Estados Unidos,Norte America,Great Lakes Food Market,ueso Mascarpone Fabioli, 32.00 ,3073,6/08/2024, 7,638.02 
+Estados Unidos,Norte America,Great Lakes Food Market,ueso Mascarpone Fabioli, 32.00 ,3073,7/08/2024, 8,663.14 
+Estados Unidos,Norte America,Lonesome Pine Restaurant,Chocolate holandés, 12.75 ,5587,8/08/2024, 7,285.23 
+Estados Unidos,Norte America,Lonesome Pine Restaurant,Chocolate holandés, 12.75 ,5587,9/08/2024, 7,300.64 
+Estados Unidos,Norte America,Lonesome Pine Restaurant,Chocolate holandés, 12.75 ,5587,10/08/2024, 7,014.37 
+Estados Unidos,Norte America,Split Rail Beer & Ale,Cerveza Klosterbier Rhönbräu, 7.75 ,4552,11/08/2024, 7,960.75 
+Estados Unidos,Norte America,Split Rail Beer & Ale,Cerveza Klosterbier Rhönbräu, 7.75 ,4552,12/08/2024, 7,142.09 
+Estados Unidos,Norte America,Split Rail Beer & Ale,Cerveza Klosterbier Rhönbräu, 7.75 ,4552,13/08/2024, 6,778.16 
+Estados Unidos,Norte America,Hungry Coyote Import Store,Escabeche de arenue, 19.00 ,5113,14/08/2024, 7,260.05 
+Estados Unidos,Norte America,Hungry Coyote Import Store,Escabeche de arenue, 19.00 ,5113,15/08/2024, 7,584.46 
+Estados Unidos,Norte America,Hungry Coyote Import Store,Escabeche de arenue, 19.00 ,5113,16/08/2024, 9,955.14 
+Estados Unidos,Norte America,Old World Delicatessen,Paté chino, 24.00 ,6329,17/08/2024, 9,512.16 
+Estados Unidos,Norte America,Old World Delicatessen,Paté chino, 24.00 ,6329,18/08/2024, 7,285.23 
+Estados Unidos,Norte America,Old World Delicatessen,Paté chino, 24.00 ,6329,19/08/2024, 9,859.00 
+Estados Unidos,Norte America,The Big Cheese,Salsa verde original Frankfurter, 13.00 ,1437,20/08/2024, 9,773.40 
+Estados Unidos,Norte America,The Big Cheese,Salsa verde original Frankfurter, 13.00 ,1437,21/08/2024, 7,118.90 
+Estados Unidos,Norte America,The Big Cheese,Salsa verde original Frankfurter, 13.00 ,1437,22/08/2024, 9,668.57 
+Estados Unidos,Norte America,Lazy K Kountry Store,Café de Malasia, 46.00 ,9122,23/08/2024, 7,975.25 
+Estados Unidos,Norte America,Lazy K Kountry Store,Café de Malasia, 46.00 ,9122,24/08/2024, 7,548.14 
+Estados Unidos,Norte America,Lazy K Kountry Store,Café de Malasia, 46.00 ,9122,25/08/2024, 9,557.18 
+Estados Unidos,Norte America,Rattlesnake Canyon Grocery,Salsa de pimiento picante de Luisiana, 21.05 ,9592,26/08/2024, 5,602.89 
+Estados Unidos,Norte America,Rattlesnake Canyon Grocery,Salsa de pimiento picante de Luisiana, 21.05 ,9592,27/08/2024, 7,260.05 
+Estados Unidos,Norte America,Rattlesnake Canyon Grocery,Salsa de pimiento picante de Luisiana, 21.05 ,9592,28/08/2024, 5,412.15 
+Estados Unidos,Norte America,Let's Stop N Shop,Arenue ahumado, 9.50 ,2085,29/08/2024, 6,151.46 
+Estados Unidos,Norte America,Let's Stop N Shop,Arenue ahumado, 9.50 ,2085,30/08/2024, 7,524.03 
+Estados Unidos,Norte America,Let's Stop N Shop,Arenue ahumado, 9.50 ,2085,31/08/2024, 7,795.19 
+Estados Unidos,Norte America,Save-a-lot Markets,Crema de ueso Fløtemys, 21.50 ,5141,1/09/2024, 7,548.14 
+Estados Unidos,Norte America,Save-a-lot Markets,Crema de ueso Fløtemys, 21.50 ,5141,2/09/2024, 7,145.91 
+Estados Unidos,Norte America,Save-a-lot Markets,Crema de ueso Fløtemys, 21.50 ,5141,3/09/2024, 7,211.07 
+México,Norte America,Antonio Moreno Tauería,Sirope de regaliz, 10.00 ,9303,4/09/2024, 6,752.98 
+México,Norte America,Antonio Moreno Tauería,Sirope de regaliz, 10.00 ,9303,5/09/2024, 6,063.26 
+México,Norte America,Antonio Moreno Tauería,Sirope de regaliz, 10.00 ,9303,6/09/2024, 6,239.81 
+México,Norte America,Centro comercial Moctezuma,Algas Konbu, 6.00 ,6797,7/09/2024, 7,584.46 
+México,Norte America,Centro comercial Moctezuma,Algas Konbu, 6.00 ,6797,8/09/2024, 6,053.50 
+México,Norte America,Centro comercial Moctezuma,Algas Konbu, 6.00 ,6797,9/09/2024, 8,542.59 
+México,Norte America,Pericles Comidas clásicas,Caracoles de Borgoña, 13.25 ,3064,10/09/2024, 5,249.18 
+México,Norte America,Pericles Comidas clásicas,Caracoles de Borgoña, 13.25 ,3064,11/09/2024, 6,009.25 
+México,Norte America,Pericles Comidas clásicas,Caracoles de Borgoña, 13.25 ,3064,12/09/2024, 9,822.99 
+México,Norte America,Ana Trujillo Emparedados y helados,Cerveza tibetana Barley, 19.00 ,5955,13/09/2024, 6,413.31 
+México,Norte America,Ana Trujillo Emparedados y helados,Cerveza tibetana Barley, 19.00 ,5955,14/09/2024, 6,139.41 
+México,Norte America,Ana Trujillo Emparedados y helados,Cerveza tibetana Barley, 19.00 ,5955,15/09/2024, 9,956.36 
+Argentina,Sur America,Cactus Comidas para llevar,ueso Manchego La Pastora, 38.00 ,3791,16/09/2024, 6,550.34 
+Argentina,Sur America,Cactus Comidas para llevar,ueso Manchego La Pastora, 38.00 ,3791,17/09/2024, 9,385.20 
+Argentina,Sur America,Cactus Comidas para llevar,ueso Manchego La Pastora, 38.00 ,3791,18/09/2024, 9,067.66 
+Argentina,Sur America,Océano Atlántico Ltda.,Empanada de cerdo, 7.45 ,6984,19/09/2024, 8,324.53 
+Argentina,Sur America,Océano Atlántico Ltda.,Empanada de cerdo, 7.45 ,6984,20/09/2024, 9,331.95 
+Argentina,Sur America,Océano Atlántico Ltda.,Empanada de cerdo, 7.45 ,6984,21/09/2024, 8,049.71 
+Argentina,Sur America,Rancho grande,Bollos de pan de Wimmer, 33.25 ,2816,22/09/2024, 6,008.79 
+Argentina,Sur America,Rancho grande,Bollos de pan de Wimmer, 33.25 ,2816,23/09/2024, 9,295.63 
+Argentina,Sur America,Rancho grande,Bollos de pan de Wimmer, 33.25 ,2816,24/09/2024, 7,892.85 
+Brasil,Sur America,Comércio Mineiro,Salsa de soja baja en sodio, 15.50 ,7239,25/09/2024, 8,465.99 
+Brasil,Sur America,Comércio Mineiro,Salsa de soja baja en sodio, 15.50 ,7239,26/09/2024, 8,875.70 
+Brasil,Sur America,Comércio Mineiro,Salsa de soja baja en sodio, 15.50 ,7239,27/09/2024, 6,869.87 
+Brasil,Sur America,ue Delícia,Sirope de arce, 28.50 ,1123,28/09/2024, 5,068.51 
+Brasil,Sur America,ue Delícia,Sirope de arce, 28.50 ,1123,29/09/2024, 8,298.75 
+Brasil,Sur America,ue Delícia,Sirope de arce, 28.50 ,1123,30/09/2024, 7,539.90 
+Brasil,Sur America,Familia Aruibaldo,Bollos de Sir Rodney's, 10.00 ,1858,1/10/2024, 5,476.85 
+Brasil,Sur America,Familia Aruibaldo,Bollos de Sir Rodney's, 10.00 ,1858,2/10/2024, 8,465.99 
+Brasil,Sur America,Familia Aruibaldo,Bollos de Sir Rodney's, 10.00 ,1858,3/10/2024, 6,340.98 
+Brasil,Sur America,ueen Cozinha,Tarta de azúcar, 49.30 ,4726,4/10/2024, 7,069.92 
+Brasil,Sur America,ueen Cozinha,Tarta de azúcar, 49.30 ,4726,5/10/2024, 8,281.20 
+Brasil,Sur America,ueen Cozinha,Tarta de azúcar, 49.30 ,4726,6/10/2024, 5,884.43 
+Brasil,Sur America,Gourmet Lanchonetes,ueso gorgonzola Telino, 12.50 ,9645,7/10/2024, 9,803.00 
+Brasil,Sur America,Gourmet Lanchonetes,ueso gorgonzola Telino, 12.50 ,9645,8/10/2024, 8,423.87 
+Brasil,Sur America,Gourmet Lanchonetes,ueso gorgonzola Telino, 12.50 ,9645,9/10/2024, 7,185.28 
+Brasil,Sur America,Ricardo Adocicados,Cerveza Laughing Lumberjack, 14.00 ,8893,10/10/2024, 9,385.20 
+Brasil,Sur America,Ricardo Adocicados,Cerveza Laughing Lumberjack, 14.00 ,8893,11/10/2024, 8,259.68 
+Brasil,Sur America,Ricardo Adocicados,Cerveza Laughing Lumberjack, 14.00 ,8893,12/10/2024, 8,708.30 
+Brasil,Sur America,Hanari Carnes,Cerveza Sasuatch, 14.00 ,4276,13/10/2024, 6,819.82 
+Brasil,Sur America,Hanari Carnes,Cerveza Sasuatch, 14.00 ,4276,14/10/2024, 8,324.53 
+Brasil,Sur America,Hanari Carnes,Cerveza Sasuatch, 14.00 ,4276,15/10/2024, 5,139.01 
